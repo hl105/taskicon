@@ -7,3 +7,5 @@ A **cute** turtle macbook menubar task tracker
 
 ## Future Implementations
 - [ ] Allow users to choose different colors & icons 
+
+![logo](./taskicon.png)
