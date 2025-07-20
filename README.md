@@ -6,6 +6,6 @@ A **cute** turtle macbook menubar task tracker
 - [x] Allow users to choose different colors & icons
 
 
-![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW85eXFvNmQ0dWpwdnJ3d21yaXNwdWplZDRwZGxvY2Y0dGhoZmdtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S7ddvgFVllljqfHjao/giphy.gif)
+![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3h6MGV4NnZrcDZjdGhjdXlhNzgxMmFpNnM5enFuMGxhMjhzYjVxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jrScLnMpgY9AVzKJ68/giphy.gif)
 
 
